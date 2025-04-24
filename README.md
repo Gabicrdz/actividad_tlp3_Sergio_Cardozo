@@ -1,4 +1,4 @@
-## Serfies en Pandas
+## Series en Pandas
 Este repositorio contiene ejemplos prácticos para trabajar con Series en Pandas
 
 # Requisitos
